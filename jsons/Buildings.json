@@ -29,8 +29,7 @@
 		"cost": 250,
 		"hurryCostModifier": 1000,
 		"production": 4,
-		"maintenance": 3,
-		"specialistSlots": {"Artist": 1,"Engineer": 1,"Scientist": 1},
+		"maintenance": 2,
 		"requiredTech": "Economics"
 	}
 	{
@@ -41,7 +40,6 @@
 		"happiness": -2,
 		"food": 4,
 		"gold": 4,
-		"specialistSlots": {"Artist": 2,"Engineer": 2,"Merchant": 2,"Scientist": 2},
 		"uniques": ["40% of food is carried over after a new citizen is born","[2] free [Crossbow] units appear","[5] free [Pikeman] units appear","[5] free [Musketman] units appear","Free [Longswordman] appears","[2] free [Horseman] units appear","Free [Knight] appears", "Free [Great Merchant] appears","[+1 Gold] from every [Fish]"],
 		"requiredTech": "Guilds"
 	}
@@ -55,8 +53,7 @@
 		"culture": 1,
 		"happiness": -2,
 		"maintenance": 1,
-		"uniques": ["Free [Great Scientist] appears","Free [Musketman] appears","Free [Atomic Bomb] appears"],
-		"specialistSlots": {"Scientist": 1},
+		"uniques": ["Free [Great Scientist] appears","Free [Musketman] appears","Free [Atomic Bomb] appears","[5] free [Guided Missile] units appear","free [SS Cockpit] appear"],
 		"requiredTech": "Agriculture"
 	}
 ]
