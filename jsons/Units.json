@@ -26,6 +26,19 @@
 		"attackSound": "phasers"
 	}
 	{
+		"name": "Federal Crossbowman",
+		"unitType": "Archery",
+		"uniqueTo": "Ginasulia",
+		"replaces": "Crossbowman",
+		"strength": 34,
+		"rangedStrength": 11,
+		"range": 2,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"promotions": ["Cover I","March","Barrage I"],
+		"attackSound": "phasers"
+	}
+	{
 		"name": "Mantis",
 		"unitType": "Archery",
 		"uniqueTo": "Ginasulia",
