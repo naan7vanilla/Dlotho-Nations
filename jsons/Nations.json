@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Penasulia",
-		"leaderName": "Gamou noui Naomi",
+		"leaderName": "queen of Pena",
 		"adjective": ["Penanu"],
 		"startBias": ["Lakes"],
 		"preferredVictoryType": "Domination",
@@ -98,5 +98,38 @@
 		"innerColor": [25, 153, 182],
 		"uniques": ["[+2 Happiness] from every specialist [in all cities]","Cannot build [Siege] units","[-15]% Production when constructing [Military] units [in all cities]","[+4 Happiness] [in all cities]","[+1 Happiness] from each Trade Route","Enables [Settler] units to enter ocean tiles","Starts with [Sailing]","Starts with [Ecology]"],
 		"cities": ["Crimau","Cavok","Butsac","Quichi","Losalas","Hach","Teppak"]
+	}
+	{
+		"name": "Ginasulia",
+		"leaderName": "queen of Gina",
+		"adjective": ["Ginanu"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
+		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
+		
+		"declaringWar": "We come to civilize you, please do not resist!",
+		"attacked": "There is no surprise, this day would have came earlier.",
+		"defeated": "Nobody is innocent, this is fair to us, GG.",
+		"introduction": "Pardon me for poor choice of words, we come in peace.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Haie I am listening...","Etto?","Wanna cup o tea mr ambassador?"],
+		"neutralNo": "Sorry, I dont.",
+		"neutralYes": ["Iaraa, very good.","Of course, yes."],
+
+		"hateHello": "Leave us alone in peace",
+		"hateLetsHearIt": "Speak! Go on...",
+		"hateNo": ["That is not possible!","We are not agreeing to that!"],
+		"hateYes": "Hhh, farewell",
+		
+		"afterPeace": "Bon voyage me old cream cracker!",
+		"tradeRequest": "Trade?",
+
+		"outerColor": [7, 163, 156],
+		"innerColor": [198, 10, 116],
+		"uniques": ["[+1 Gold] from every specialist [in all cities]","[+1 Production] from every specialist [in all cities]","[+1 Science] from each Trade Route","Starts with [Philosophy]"],
+		"cities": ["Tszubakiyir","Puree","Aenil","Piquer","Ni Laala"]
 	}
 ]
