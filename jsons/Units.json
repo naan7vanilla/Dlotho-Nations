@@ -30,12 +30,13 @@
 		"unitType": "Archery",
 		"uniqueTo": "Ginasulia",
 		"replaces": "Crossbowman",
+		"movement": 2,
 		"strength": 34,
 		"rangedStrength": 11,
 		"range": 2,
 		"cost": 120,
 		"requiredTech": "Machinery",
-		"promotions": ["Cover I","March","Barrage I"],
+		"promotions": ["Cover I","March","Barrage I","May heal outside of friendly territory"],
 		"attackSound": "phasers"
 	}
 	{
@@ -47,8 +48,20 @@
 		"rangedStrength": 7,
 		"range": 2,
 		"cost": 1,
+		"movement": 1,
 		"requiredTech": "Archery",
 		"promotions": ["Indirect Fire"],
 		"attackSound": "phasers"
+	{
+		"name": "Ostrich Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Ginasulia",
+		"replaces": "Horseman",
+		"strength": 8,
+		"cost": 40,
+		"movement": 6,
+		"requiredTech": "Archery",
+		"promotions": ["March","Sentry","Charge"],
+		"uniques": ["No defensive terrain penalty","No movement cost to pillage","Can move after attacking","May heal outside of friendly territory","Ignores terrain cost"]
 	}
 ]
