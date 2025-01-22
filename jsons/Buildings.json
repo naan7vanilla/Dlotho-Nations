@@ -52,7 +52,7 @@
 		"science": 1,
 		"culture": 1,
 		"maintenance": 1,
-		"uniques": ["Free [Great Scientist] appears","Free [Musketman] appears","Free [Atomic Bomb] appears"],
+		"uniques": ["Free [Great Scientist] appears","Free [Musketman] appears","Free [Atomic Bomb] appears","Free [Settler] appears"],
 		"requiredTech": "Agriculture"
 	}
 ]
