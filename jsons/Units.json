@@ -18,6 +18,7 @@
 		"uniqueTo": "Scdtia",
 		"replaces": "Trireme",
 		"strength": 55,
+		"movement": 4,
 		"cost": 40,
 		"requiredTech": "Agriculture",
 		"promotions": ["Boarding Party I"],
