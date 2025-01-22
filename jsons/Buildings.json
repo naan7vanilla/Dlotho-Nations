@@ -45,6 +45,7 @@
 	}
 		{
 		"name": "Sun Empire Relics",
+		"replaces": "Monument",
 		"uniqueTo": "Sophia",
 		"cost": 40,
 		"hurryCostModifier": 280,
