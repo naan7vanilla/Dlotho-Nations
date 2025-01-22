@@ -17,7 +17,7 @@
 		"unitType": "Melee Water",
 		"uniqueTo": "Scdtia",
 		"replaces": "Trireme",
-		"strength": 55,
+		"strength": 30,
 		"movement": 4,
 		"cost": 40,
 		"requiredTech": "Agriculture",
