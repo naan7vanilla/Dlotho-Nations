@@ -52,6 +52,7 @@
 		"requiredTech": "Archery",
 		"promotions": ["Indirect Fire"],
 		"attackSound": "phasers"
+	}
 	{
 		"name": "Ostrich Cavalry",
 		"unitType": "Mounted",
