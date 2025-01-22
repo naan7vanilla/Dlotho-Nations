@@ -22,4 +22,14 @@
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
+{
+		"name": "Windmill Powerplant",
+		"replaces": "Windmill",
+		"uniqueTo": "Penasulia",
+		"cost": 250,
+		"hurryCostModifier": 1000,
+		"production": 4,
+		"maintenance": 3,
+		"requiredTech": "Economics"
+	}
 ]
