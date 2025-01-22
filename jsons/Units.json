@@ -25,4 +25,17 @@
 		"uniques": ["Invisible to non-adjacent units","Unit will heal every turn, even if it performs an action","May heal outside of friendly territory","Can move after attacking","Unable to capture cities","Withdraws before melee combat","[3] Sight","[3] additional attacks per turn"]
 		"attackSound": "phasers"
 	}
+	{
+		"name": "Mantis",
+		"unitType": "Archery",
+		"uniqueTo": "Ginasulia",
+		"replaces": "Archer",
+		"strength": 1,
+		"rangedStrength": 7,
+		"range": 2,
+		"cost": 1,
+		"requiredTech": "Archery",
+		"promotions": ["Indirect Fire"],
+		"attackSound": "phasers"
+	}
 ]
