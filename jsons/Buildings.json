@@ -44,7 +44,7 @@
 		"requiredTech": "Guilds"
 	}
 		{
-		"name": "Sun Empire Relics",
+		"name": "Galatic Empire Relics",
 		"replaces": "Monument",
 		"uniqueTo": "Sophia",
 		"cost": 40,
@@ -52,7 +52,7 @@
 		"science": 1,
 		"culture": 1,
 		"maintenance": 1,
-		"uniques": ["Free [Great Scientist] appears","Free [Future Soldier] appears"],
+		"uniques": ["Free [Great Scientist] appears","Free [Musketman] appears"],
 		"requiredTech": "Agriculture"
 	}
 ]
