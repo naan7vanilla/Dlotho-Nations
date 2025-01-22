@@ -22,7 +22,7 @@
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
-{
+	{
 		"name": "Windmill Powerplant",
 		"replaces": "Windmill",
 		"uniqueTo": "Penasulia",
@@ -31,5 +31,16 @@
 		"production": 4,
 		"maintenance": 3,
 		"requiredTech": "Economics"
+	}
+	{
+		"name": "Modular Conbini",
+		"uniqueTo": "Boreaul",
+		"cost": 60,
+		"hurryCostModifier": 300,
+		"happiness": -2,
+		"food": 4,
+		"gold": 4,
+		"uniques": ["40% of food is carried over after a new citizen is born","[2] free [Crossbow] units appear","[5] free [Pikeman] units appear","[5] free [Musketman] units appear","Free [Longswordman] appears","[2] free [Horseman] units appear","Free [Knight] appears", "Free [Great Merchant] appears","[+1 Gold] from every [Fish]"],
+		"requiredTech": "Guilds"
 	}
 ]
