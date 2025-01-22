@@ -52,6 +52,6 @@
 		"culture": 1,
 		"maintenance": 1,
 		"uniques": ["Free [Great Scientist] appears","Free [Future Soldier] appears"],
-		"requiredTech": "Angriculture"
+		"requiredTech": "Agriculture"
 	}
 ]
