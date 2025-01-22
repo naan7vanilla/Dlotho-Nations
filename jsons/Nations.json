@@ -162,7 +162,7 @@
 
 		"outerColor": [26, 154, 214],
 		"innerColor": [22, 62, 154],
-		"uniques": ["[+2 Science] from every specialist [in all cities]","Starts with [Rationalism] adopted","Starts with [Writing]","Starts with [Astronomy]","Starts with [Education]","Starts with [Scientific Theory]"],
+		"uniques": ["[+2 Science] from every specialist [in all cities]","Starts with [Rationalism] adopted","Starts with [Writing]","Starts with [Astronomy]","Starts with [Education]","Starts with [Scientific Theory]","Cannot build [Settler] units","Cannot build [Siege] units"],
 		"cities": ["Campus"]
 	}
 ]
