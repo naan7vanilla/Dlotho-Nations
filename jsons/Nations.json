@@ -31,7 +31,7 @@
 		"innerColor": [198, 10, 116],
 		"uniques": ["[+2 Culture] from every specialist [in all cities]","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities","Starts with [Honor] adopted"],
 		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
-			"Molasi","Sato","Tzsubakyir"]
+			"Molasi","Sato"]
 	}
 	{
 		"name": "Boreaul",
@@ -70,7 +70,7 @@
 		"name": "Scdtia",
 		"leaderName": "queen of Scdtia",
 		"adjective": ["Scdtia"],
-		"startBias": ["Atoll"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
@@ -97,6 +97,6 @@
 		"outerColor": [232, 195, 5],
 		"innerColor": [25, 153, 182],
 		"uniques": ["[+2 Happiness] from every specialist [in all cities]","Cannot build [Siege] units","[-15]% Production when constructing [Military] units [in all cities]","[+4 Happiness] [in all cities]","[+1 Happiness] from each Trade Route","Enables [Settler] units to enter ocean tiles","Starts with [Sailing]","Starts with [Ecology]"],
-		"cities": ["Boreaulpuris"]
+		"cities": ["Crimau","Cavok","Butsac","Quichi","Losalas","Hach","Teppak"]
 	}
 ]
