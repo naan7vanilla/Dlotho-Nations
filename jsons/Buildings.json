@@ -43,4 +43,15 @@
 		"uniques": ["40% of food is carried over after a new citizen is born","[2] free [Crossbow] units appear","[5] free [Pikeman] units appear","[5] free [Musketman] units appear","Free [Longswordman] appears","[2] free [Horseman] units appear","Free [Knight] appears", "Free [Great Merchant] appears","[+1 Gold] from every [Fish]"],
 		"requiredTech": "Guilds"
 	}
+		{
+		"name": "Sun Empire Relics",
+		"uniqueTo": "Sophia",
+		"cost": 40,
+		"hurryCostModifier": 280,
+		"science": 1,
+		"culture": 1,
+		"maintenance": 1,
+		"uniques": ["Free [Great Scientist] appears","Free [Future Soldier] appears"],
+		"requiredTech": "Angriculture"
+	}
 ]
