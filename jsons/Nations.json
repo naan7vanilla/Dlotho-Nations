@@ -96,7 +96,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [25, 153, 182],
-		"uniques": ["[+2 happiness] from every specialist [in all cities]","Cannot build [Siege] units","[-15]% Production when constructing [Military] units [in all cities]","[+4 happiness] [in all cities]","[+1 happiness] from each Trade Route","Enables [Settler] units to enter ocean tiles","Starts with [Sailing]","Starts with [Ecology]","Connects trade routes over water"],
+		"uniques": ["[+2 happiness] from every specialist [in all cities]","Cannot build [Siege] units","[-15]% Production when constructing [Military] units [in all cities]","[+4 happiness] [in all cities]","[+1 happiness] from each Trade Route","Enables [Settler] units to enter ocean tiles","Starts with [Sailing]","Starts with [Ecology]"],
 		"cities": ["Boreaulpuris"]
 	}
 ]
