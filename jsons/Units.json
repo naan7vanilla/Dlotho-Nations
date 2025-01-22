@@ -63,5 +63,6 @@
 		"requiredTech": "Archery",
 		"promotions": ["March","Sentry","Charge"],
 		"uniques": ["No defensive terrain penalty","No movement cost to pillage","Can move after attacking","May heal outside of friendly territory","Ignores terrain cost"],
+		"attackSound": "phasers"
 	}
 ]
