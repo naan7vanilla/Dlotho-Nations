@@ -20,7 +20,7 @@
 		"strength": 30,
 		"movement": 4,
 		"cost": 40,
-		"requiredTech": "Agriculture",
+		"requiredTech": "Horseback Riding",
 		"promotions": ["Boarding Party I","Supply"],
 		"uniques": ["Invisible to non-adjacent units","Unit will heal every turn, even if it performs an action","Can move after attacking","Unable to capture cities","Withdraws before melee combat","[3] Sight","[3] additional attacks per turn"]
 		"attackSound": "phasers"
