@@ -12,4 +12,16 @@
 		"promotions": ["Bombardment I"],
 		"attackSound": "phasers"
 	}
+	{
+		"name": "Shark Cavalry",
+		"unitType": "Melee Water",
+		"uniqueTo": "Scdtia",
+		"replaces": "Trireme",
+		"strength": 55,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"promotions": ["Boarding Party I"],
+		"uniques": ["Invisible to non-adjacent units","Unit will heal every turn, even if it performs an action","May heal outside of friendly territory","Can move after attacking","Unable to capture cities","Withdraws before melee combat","[3] Sight","[3] additional attacks per turn",
+		"attackSound": "phasers"
+	}
 ]
