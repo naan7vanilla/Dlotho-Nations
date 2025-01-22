@@ -63,7 +63,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [71, 40, 144],
-		"uniques": ["[+2 Food] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units"],
+		"uniques": ["[+2 Food] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","Starts with [Freedom] adopted","Starts with [Commerce] adopted"],
 		"cities": ["Boreaulpuris"]
 	}
 ]
