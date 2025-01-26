@@ -134,4 +134,14 @@
 		"uniques": ["Free [Great Artist] appears"],
 		"requiredTech": "Scientific Theory"
 	}
+		{
+		"name": "Martial Academy",
+		"replaces": "University",
+		"uniqueTo": "Weyda",
+		"cost": 160,
+		"hurryCostModifier": 660,
+		"maintenance": 2,
+		"uniques": ["Free [Great General] appears"],
+		"requiredTech": "Education"
+	}
 ]
