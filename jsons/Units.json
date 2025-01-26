@@ -82,7 +82,7 @@
 		"name": "Death Merged",
 		"unitType": "Armored",
 		"uniqueTo": "Dlotho South Pole",
-		"replaces": "Swordman",
+		"replaces": "Swordsman",
 		"movement": 1,
 		"strength": 150,
 		"cost": 425,
