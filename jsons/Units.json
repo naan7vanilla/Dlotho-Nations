@@ -116,4 +116,43 @@
 		"uniques": ["cannot attack"],
 		"attackSound": "phasers"
 	}
+	{
+		"name": "Veteran Valor",
+		"unitType": "Sword",
+		"uniqueTo": "Weyda",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 24,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Unicorn Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Weyda",
+		"replaces": "Knight",
+		"strength": 20,
+		"cost": 120,
+		"movement": 6,
+		"requiredTech": "Chivalry",
+		"promotions": ["Sentry","Charge"],
+		"uniques": ["No defensive terrain penalty","No movement cost to pillage","Can move after attacking","Ignores terrain cost"],
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Lyre Bowman",
+		"unitType": "Archery",
+		"uniqueTo": "Weyda",
+		"replaces": "Composite Bowman",
+		"movement": 3,
+		"strength": 7,
+		"rangedStrength": 11,
+		"range": 3,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"promotions": ["Barrage I"],
+		"attackSound": "phasers"
+	}
 ]
