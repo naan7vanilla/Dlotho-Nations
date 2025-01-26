@@ -22,7 +22,7 @@
 		"cost": 40,
 		"requiredTech": "Horseback Riding",
 		"promotions": ["Boarding Party I","Supply"],
-		"uniques": ["Invisible to non-adjacent units","Unit will heal every turn, even if it performs an action","Can move after attacking","Unable to capture cities","Withdraws before melee combat","[3] Sight","[3] additional attacks per turn"]
+		"uniques": ["Invisible to non-adjacent units","Unit will heal every turn, even if it performs an action","Can move after attacking","Unable to capture cities","Withdraws before melee combat","[3] Sight","[2] additional attacks per turn"]
 		"attackSound": "phasers"
 	}
 	{
@@ -77,7 +77,7 @@
 		"requiredTech": "Agriculture",
 		"promotions": ["Blitz"],
 		"attackSound": "phasers"
-	},
+	}
 	{
 		"name": "Death Merged",
 		"unitType": "Armored",
@@ -88,6 +88,32 @@
 		"cost": 425,
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Antifa Horde",
+		"unitType": "Sword",
+		"uniqueTo": "Bodom",
+		"replaces": "Warrior",
+		"movement": 1,
+		"strength": 14,
+		"cost": 25,
+		"requiredTech": "Agriculture",
+		"promotions": ["Cover I"],
+		"uniques": ["Unable to capture cities"],
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Parrier",
+		"unitType": "Sword",
+		"uniqueTo": "Bodom",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 21,
+		"cost": 90,
+		"requiredTech": "Agriculture",
+		"promotions": ["Cover I","Cover II","Medic I","Medic II","Formation I","Formation II","Ambush I","Ambush II"],
+		"uniques": ["cannot attack"],
 		"attackSound": "phasers"
 	}
 ]
