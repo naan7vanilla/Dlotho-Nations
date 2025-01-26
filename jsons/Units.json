@@ -84,7 +84,7 @@
 		"uniqueTo": "Thiae",
 		"replaces": "Swordsman",
 		"movement": 1,
-		"strength": 150,
+		"strength": 75,
 		"cost": 425,
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
