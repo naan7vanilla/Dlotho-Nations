@@ -263,4 +263,37 @@
 		"uniques": ["Starts with [Honor] adopted","Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Archery]","Starts with [Mining]","Starts with [Sailing]","Starts with [Calendar]","Starts with [Writing]","Starts with [Trapping]","Starts with [The Wheel]","Starts with [Masonry]","Starts with [Bronze Working]","New [Melee] units start with [15] Experience [in all cities]"],
 		"cities": ["Cinran","Vingpa","Ciden"]
 	}
+{
+		"name": "Inhelatis",
+		"leaderName": "king of Inhelatis",
+		"adjective": ["Inhelatian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
+		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
+		
+		"declaringWar": "We come to civilize you, please do not resist!",
+		"attacked": "There is no surprise, this day would have came earlier.",
+		"defeated": "Nobody is innocent, this is fair to us, GG.",
+		"introduction": "Pardon me for poor choice of words, we come in peace.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Haie I am listening...","Etto?","Wanna cup o tea mr ambassador?"],
+		"neutralNo": "Sorry, I dont.",
+		"neutralYes": ["Iaraa, very good.","Of course, yes."],
+
+		"hateHello": "Leave us alone in peace",
+		"hateLetsHearIt": "Speak! Go on...",
+		"hateNo": ["That is not possible!","We are not agreeing to that!"],
+		"hateYes": "Hhh, farewell",
+		
+		"afterPeace": "Bon voyage me old cream cracker!",
+		"tradeRequest": "Trade?",
+
+		"outerColor": [234, 227, 227],
+		"innerColor": [177, 32, 32],
+		"uniques": ["Starts with [Honor] adopted","New [Archery] units start with [15] Experience [in all cities]"],
+		"cities": ["Petrasterias","Consi","Calt"]
+	}
 ]
