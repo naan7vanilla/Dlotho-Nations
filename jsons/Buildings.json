@@ -91,8 +91,8 @@
 		"requiredTech": "Construction"
 	}
 		{
-		"name": "Graffiti Wall",
-		"replaces": "Wall",
+		"name": "Graffiti Walls",
+		"replaces": "Walls",
 		"uniqueTo": "Bodom",
 		"cost": 75,
 		"hurryCostModifier": 400,
