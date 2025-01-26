@@ -258,9 +258,9 @@
 		"afterPeace": "Bon voyage me old cream cracker!",
 		"tradeRequest": "Trade?",
 
-		"outerColor": [26, 154, 214],
+		"outerColor": [170, 31, 12],
 		"innerColor": [223, 195, 16],
-		"uniques": ["Starts with [Honor] adopted","Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Aerchery]","Starts with [Mining]","Starts with [Sailing]","Starts with [Calendar]","Starts with [Writing]","Starts with [Trapping]","Starts with [The Wheel]","Starts with [Masonry]","Starts with [Bronze Working]","New [Melee] units start with [15] Experience [in all cities]"],
+		"uniques": ["Starts with [Honor] adopted","Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Archery]","Starts with [Mining]","Starts with [Sailing]","Starts with [Calendar]","Starts with [Writing]","Starts with [Trapping]","Starts with [The Wheel]","Starts with [Masonry]","Starts with [Bronze Working]","New [Melee] units start with [15] Experience [in all cities]"],
 		"cities": ["Cinran","Vingpa","Ciden"]
 	}
 ]
