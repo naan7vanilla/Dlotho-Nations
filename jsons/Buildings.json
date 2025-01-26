@@ -53,7 +53,7 @@
 		"culture": 1,
 		"happiness": -2,
 		"maintenance": 1,
-		"uniques": ["Free [Great Scientist] appears","Free [Musketman] appears","Free [Atomic Bomb] appears","[5] free [Guided Missile] units appear","free [SS Cockpit] appear"],
+		"uniques": ["Free [Great Scientist] appears","Free [Musketman] appears","Free [Atomic Bomb] appears","[5] free [Guided Missile] units appear",],
 		"requiredTech": "Agriculture"
 	}
 		{
@@ -143,5 +143,15 @@
 		"maintenance": 2,
 		"uniques": ["Free [Great General] appears"],
 		"requiredTech": "Education"
+	}
+		{
+		"name": "GMLB",
+		"replaces": "Medical Lab",
+		"uniqueTo": "Inhelatis",
+		"cost": 500,
+		"hurryCostModifier": 1350,
+		"maintenance": 3,
+		"uniques": ["Free [Great Scientist] appears","[6] free [Atomic Bomb] units appear"],
+		"requiredTech": "Pharmaceuticals"
 	}
 ]
