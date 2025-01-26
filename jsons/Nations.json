@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Penasulia",
-		"leaderName": "queen of Pena",
+		"leaderName": "duchess of Penasulia",
 		"adjective": ["Penanu"],
 		"startBias": ["Lakes"],
 		"preferredVictoryType": "Diplomatic",
@@ -34,7 +34,7 @@
 	}
 	{
 		"name": "Bodom",
-		"leaderName": "president of Bodom",
+		"leaderName": "visionary of Bodom",
 		"adjective": ["Penanu"],
 		"startBias": ["Lakes"],
 		"preferredVictoryType": "Diplomatic",
@@ -100,7 +100,7 @@
 	}
 	{
 		"name": "Scdtia",
-		"leaderName": "queen of Scdtia",
+		"leaderName": "chairman of Scdtia",
 		"adjective": ["Scdtia"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
@@ -133,7 +133,7 @@
 	}
 	{
 		"name": "Ginasulia",
-		"leaderName": "queen of Gina",
+		"leaderName": "duchess of Gina",
 		"adjective": ["Ginanu"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
@@ -166,7 +166,7 @@
 	}
 		{
 		"name": "Sophia",
-		"leaderName": "queen of Sophia",
+		"leaderName": "prince of Sophia",
 		"adjective": ["Sophian"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
