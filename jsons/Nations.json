@@ -95,7 +95,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [71, 40, 144],
-		"uniques": ["[+2 Food] from every specialist [in all cities]","[+1 Gold] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","Starts with [Freedom] adopted","Starts with [Commerce] adopted","Starts with [Patronage] adopted","Starts with [Refrigeration]","[-60]% Production when constructing [Military] units [in all cities]","[-60]% maintenance cost for buildings [in all cities]","[+20]% growth [in all cities]", "[+1 Gold, +2 Production] per [3] population [in all cities]","[+1 Gold, +2 Food] [in all cities]","Militaristic City-States grant units [5] times as fast when you are at war with a common nation", "Gifts of Gold to City-States generate [+50]% more Influence","Units in cities cost no Maintenance","Enables [Melee Water] units to enter ocean tiles","Starts with [Sailing]"],
+		"uniques": ["[+2 Food] from every specialist [in all cities]","[+1 Gold] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","Starts with [Freedom] adopted","Starts with [Commerce] adopted","Starts with [Patronage] adopted","Starts with [Refrigeration]","[-60]% Production when constructing [Military] units [in all cities]","[-60]% maintenance cost for buildings [in all cities]","[+20]% growth [in all cities]", "[+1 Gold, +2 Production] per [3] population [in all cities]","[+1 Gold, +2 Food] [in all cities]","Militaristic City-States grant units [5] times as fast when you are at war with a common nation", "Gifts of Gold to City-States generate [+50]% more Influence","Units in cities cost no Maintenance","Enables [Melee Water] units to enter ocean tiles","Starts with [Sailing]","[Gold] cost of purchasing [Melee] units [-50]%","[-50]% Food consumption by specialists [in all cities]"],
 		"cities": ["Boreaulpuris"]
 	}
 	{
@@ -326,7 +326,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [71, 40, 144],
-		"uniques": ["[+2 Production] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Starts with [Liberty] adopted","[+1 Happiness] per [2] population [in all cities]","[+3 Happiness, +2 Production] [in all cities]","Units in cities cost no Maintenance","[+2 Gold, +2 Production, +2 Culture, +2 Science, +1 Happiness] from each Trade Route"],
-		"cities": ["Boreaulpuris"]
+		"uniques": ["[+2 Production] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Starts with [Liberty] adopted","[+1 Happiness] per [2] population [in all cities]","[+3 Happiness, +2 Production, -4 Culture, -4 Science] [in all cities]","Units in cities cost no Maintenance","[+2 Gold, +2 Production, +8 Culture, +8 Science, +1 Happiness] from each Trade Route","[-75]% maintenance on road & railroads","Improves movement speed on roads","Quantity of strategic resources produced by the empire +[+100]%"],
+		"cities": ["Utenpur"]
 	}
 ]
