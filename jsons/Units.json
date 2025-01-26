@@ -69,7 +69,7 @@
 	{
 		"name": "Reclaim Horde",
 		"unitType": "Sword",
-		"uniqueTo": "Dlotho South Pole",
+		"uniqueTo": "Thiae",
 		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 8,
@@ -81,7 +81,7 @@
 	{
 		"name": "Death Merged",
 		"unitType": "Armored",
-		"uniqueTo": "Dlotho South Pole",
+		"uniqueTo": "Thiae",
 		"replaces": "Swordsman",
 		"movement": 1,
 		"strength": 150,
