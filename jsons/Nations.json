@@ -4,7 +4,7 @@
 		"leaderName": "queen of Pena",
 		"adjective": ["Penanu"],
 		"startBias": ["Lakes"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
 		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
@@ -30,8 +30,40 @@
 		"outerColor": [7, 163, 156],
 		"innerColor": [198, 10, 116],
 		"uniques": ["[+2 Culture] from every specialist [in all cities]","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities","Starts with [Honor] adopted"],
-		"cities": ["Sapphoro","Polchtidayum","Caminato","Chauto","Adonicopolis","Saliropolis","Achilena","Cenai","Nilai",
-			"Molasi","Sato"]
+		"cities": ["Polchtidayum","Caminato","Chauto","Adonicopolis","Cenai","Nilai","Sato"]
+	}
+	{
+		"name": "Bodom",
+		"leaderName": "president of Bodom",
+		"adjective": ["Penanu"],
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
+		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
+		
+		"declaringWar": "We come to civilize you, please do not resist!",
+		"attacked": "There is no surprise, this day would have came earlier.",
+		"defeated": "Nobody is innocent, this is fair to us, GG.",
+		"introduction": "Pardon me for poor choice of words, we come in peace.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Haie I am listening...","Etto?","Wanna cup o tea mr ambassador?"],
+		"neutralNo": "Sorry, I dont.",
+		"neutralYes": ["Iaraa, very good.","Of course, yes."],
+
+		"hateHello": "Leave us alone in peace",
+		"hateLetsHearIt": "Speak! Go on...",
+		"hateNo": ["That is not possible!","We are not agreeing to that!"],
+		"hateYes": "Hhh, farewell",
+		
+		"afterPeace": "Bon voyage me old cream cracker!",
+		"tradeRequest": "Trade?",
+
+		"outerColor": [7, 163, 156],
+		"innerColor": [198, 10, 116],
+		"uniques": ["[+1 Happiness] from every specialist [in all cities]","[+1 Culture] from every specialist [in all cities]","Cannot build [Worker] units"],
+		"cities": ["Sapphoro","Saliropuris","Achilena","Molasi"]
 	}
 	{
 		"name": "Boreaul",
@@ -71,7 +103,7 @@
 		"leaderName": "queen of Scdtia",
 		"adjective": ["Scdtia"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
 		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
@@ -104,7 +136,7 @@
 		"leaderName": "queen of Gina",
 		"adjective": ["Ginanu"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
 		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
