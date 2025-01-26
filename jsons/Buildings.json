@@ -69,7 +69,6 @@
 		"uniques": ["Free [Great Artist] appears"],
 		"requiredTech": "Writing"
 	}
-	}
 		{
 		"name": "Transhuman Vet",
 		"replaces": "Hospital",
