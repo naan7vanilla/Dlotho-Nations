@@ -167,7 +167,7 @@
 		"cost": 360,
 		"requiredTech": "Ballistics",
 		"promotions": ["Barrage I"],
-		"uniques": ["Can move after attacking",],
+		"uniques": ["Can move after attacking"],
 		"attackSound": "phasers"
 	}
 ]
