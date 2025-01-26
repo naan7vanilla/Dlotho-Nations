@@ -154,4 +154,15 @@
 		"uniques": ["Free [Great Scientist] appears","[6] free [Atomic Bomb] units appear"],
 		"requiredTech": "Pharmaceuticals"
 	}
+		{
+		"name": "Townhall",
+		"replaces": "Monument",
+		"uniqueTo": "Celap",
+		"cost": 40,
+		"hurryCostModifier": 280,
+		"production": 2,
+		"maintenance": 2,
+		"uniques": ["Free [Archer] appears","[2] free [Worker] units appear","Free [Settler] appears"],
+		"requiredTech": "Agriculture"
+	}
 ]
