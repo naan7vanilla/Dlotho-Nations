@@ -112,7 +112,7 @@
 		"strength": 21,
 		"cost": 90,
 		"requiredTech": "Agriculture",
-		"promotions": ["Cover I","Cover II","Medic I","Medic II","Formation I","Formation II","Ambush I","Ambush II"],
+		"promotions": ["Cover I","Cover II","Medic","Medic II","Formation I","Formation II","Ambush I","Ambush II"],
 		"uniques": ["cannot attack"],
 		"attackSound": "phasers"
 	}
