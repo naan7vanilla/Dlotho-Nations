@@ -169,7 +169,7 @@
 		"name": "Thiae",
 		"leaderName": "Who Are The Death",
 		"adjective": ["who"],
-		"startBias": ["Tundra"],
+		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Breath",
