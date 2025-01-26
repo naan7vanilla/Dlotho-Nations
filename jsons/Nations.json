@@ -63,7 +63,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [71, 40, 144],
-		"uniques": ["[+2 Food] from every specialist [in all cities]","[+1 Gold] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","Starts with [Freedom] adopted","Starts with [Commerce] adopted","[-75]% Production when constructing [Military] units [in all cities]","[-90]% maintenance cost for buildings [in all cities]","[+20]% growth [in all cities]", "[+1 Gold, +2 Production] per [3] population [in all cities]","[+1 Gold, +2 Food] [in all cities]","[+1 Gold, +2 Production] from each Trade Route","Militaristic City-States grant units [5] times as fast when you are at war with a common nation", "Gifts of Gold to City-States generate [+25]% more Influence","Units in cities cost no Maintenance","Enables [Melee Water] units to enter ocean tiles","Starts with [Sailing]"],
+		"uniques": ["[+2 Food] from every specialist [in all cities]","[+1 Gold] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","Starts with [Freedom] adopted","Starts with [Commerce] adopted","Starts with [Patronage] adopted","Starts with [Refrigeration]","[-60]% Production when constructing [Military] units [in all cities]","[-60]% maintenance cost for buildings [in all cities]","[+20]% growth [in all cities]", "[+1 Gold, +2 Production] per [3] population [in all cities]","[+1 Gold, +2 Food] [in all cities]","Militaristic City-States grant units [5] times as fast when you are at war with a common nation", "Gifts of Gold to City-States generate [+50]% more Influence","Units in cities cost no Maintenance","Enables [Melee Water] units to enter ocean tiles","Starts with [Sailing]"],
 		"cities": ["Boreaulpuris"]
 	}
 	{
@@ -71,7 +71,7 @@
 		"leaderName": "queen of Scdtia",
 		"adjective": ["Scdtia"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
 		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
@@ -96,7 +96,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [25, 153, 182],
-		"uniques": ["[+2 Happiness] from every specialist [in all cities]","Cannot build [Siege] units","[-15]% Production when constructing [Military] units [in all cities]","[+4 Happiness] [in all cities]","[+1 Happiness] from each Trade Route","Enables [Settler] units to enter ocean tiles","Starts with [Sailing]","Starts with [Ecology]"],
+		"uniques": ["Cannot build [Siege] units","[-15]% Production when constructing [Military] units [in all cities]","[+2 Happiness] [in all cities]","Enables [Settler] units to enter ocean tiles","Starts with [Sailing]"],
 		"cities": ["Crimau","Cavok","Butsac","Quichi","Losalas","Hach","Teppak"]
 	}
 	{
@@ -164,5 +164,38 @@
 		"innerColor": [22, 62, 154],
 		"uniques": ["[+2 Science] from every specialist [in all cities]","Starts with [Rationalism] adopted","Starts with [Writing]","Starts with [Astronomy]","Starts with [Education]","Starts with [Scientific Theory]","Cannot build [Settler] units","Cannot build [Siege] units"],
 		"cities": ["Shipwreck","Campus","Library"]
+	}
+	{
+		"name": "Thiae",
+		"leaderName": "Who Are The Death",
+		"adjective": ["who"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Breath",
+		"startIntroPart2": "Who are we? We dont remember, everything we know is wrath. Reclaim our honor!",
+		
+		"declaringWar": "Return our honor!",
+		"attacked": "So you have choosen death!",
+		"defeated": "We were just misunderstood and stuck in forever wrath, we will rise again from the ashes, you owe us your head!",
+		"introduction": "The First Generation of Old World hyper power has been risen from the ashes, prepare to dead!",
+		
+		"neutralHello": "Breath.",
+		"neutralLetsHearIt": ["Breath."],
+		"neutralNo": ["Haha... head shake."],
+		"neutralYes": ["You chose wisely."],
+
+		"hateHello": "Breath",
+		"hateLetsHearIt": ["Breath."],
+		"hateNo": ["Staring."],
+		"hateYes": ["You decided wisely, kids."],
+		
+		"afterPeace": "We will return.",
+		"tradeRequest": "At least we dont want your blood this time.",
+
+		"outerColor": [39, 44, 143],
+		"innerColor": [37, 76, 1134],
+		"uniques": ["Cannot build [Settler] units","Starts with [Honor] adopted","[36] units cost no maintenance","Cannot build [Ranged] units","[2] Unit Supply per [1] population [in all cities]","Quantity of strategic resources produced by the empire +[+100]%","Cities are razed [20] times as fast","No movement cost to pillage","Can only heal by pillaging"],
+		"cities": ["South Pole"]
 	}
 ]
