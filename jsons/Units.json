@@ -26,7 +26,7 @@
 		"attackSound": "phasers"
 	}
 	{
-		"name": "Federal Crossbowman",
+		"name": "Heavy Crossbowman",
 		"unitType": "Archery",
 		"uniqueTo": "Ginasulia",
 		"replaces": "Crossbowman",
@@ -40,7 +40,7 @@
 		"attackSound": "phasers"
 	}
 	{
-		"name": "Mantis",
+		"name": "Mantis Guardian",
 		"unitType": "Archery",
 		"uniqueTo": "Ginasulia",
 		"replaces": "Archer",
@@ -64,6 +64,30 @@
 		"requiredTech": "Archery",
 		"promotions": ["March","Sentry","Charge"],
 		"uniques": ["No defensive terrain penalty","No movement cost to pillage","Can move after attacking","Ignores terrain cost"],
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Reclaim Horde",
+		"unitType": "Sword",
+		"uniqueTo": "Dlotho South Pole",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 8,
+		"cost": 4,
+		"requiredTech": "Agriculture",
+		"promotions": ["Blitz"],
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Death Merged",
+		"unitType": "Armored",
+		"uniqueTo": "Dlotho South Pole",
+		"replaces": "Swordman",
+		"movement": 1,
+		"strength": 150,
+		"cost": 425,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
 		"attackSound": "phasers"
 	}
 ]
