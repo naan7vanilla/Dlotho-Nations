@@ -28,10 +28,10 @@
 	{
 		"name": "Heavy Crossbowman",
 		"unitType": "Archery",
-		"uniqueTo": "Ginasulia",
+		"uniqueTo": "Penasulia",
 		"replaces": "Crossbowman",
 		"movement": 2,
-		"strength": 34,
+		"strength": 30,
 		"rangedStrength": 11,
 		"range": 2,
 		"cost": 120,
@@ -64,6 +64,18 @@
 		"requiredTech": "Archery",
 		"promotions": ["March","Sentry","Charge"],
 		"uniques": ["No defensive terrain penalty","No movement cost to pillage","Can move after attacking","Ignores terrain cost"],
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Firelancer",
+		"unitType": "Sword",
+		"uniqueTo": "Ginasulia",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 12,
+		"cost": 60,
+		"requiredTech": "Gunpowder",
+		"promotions": ["Formation I","Formation II","Shock I","Besiege","Blitz"],
 		"attackSound": "phasers"
 	}
 	{
@@ -168,6 +180,19 @@
 		"requiredTech": "Ballistics",
 		"promotions": ["Barrage I"],
 		"uniques": ["Can move after attacking"],
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Federal Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Celap",
+		"replaces": "Cavalry",
+		"strength": 30,
+		"cost": 200,
+		"movement": 5,
+		"requiredTech": "Gunpowder",
+		"promotions": ["March","Charge","Medic","Sentry"],
+		"uniques": ["No movement cost to pillage","Can move after attacking","Ignores terrain cost"],
 		"attackSound": "phasers"
 	}
 ]
