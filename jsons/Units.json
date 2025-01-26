@@ -155,4 +155,19 @@
 		"promotions": ["Barrage I"],
 		"attackSound": "phasers"
 	}
+	{
+		"name": "Elite Sniper",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Inhelatis",
+		"replaces": "Machine Gun",
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 85,
+		"range": 3,
+		"cost": 360,
+		"requiredTech": "Ballistics",
+		"promotions": ["Barrage I"],
+		"uniques": ["Can move after attacking",],
+		"attackSound": "phasers"
+	}
 ]
