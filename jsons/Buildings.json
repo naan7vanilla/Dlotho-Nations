@@ -165,7 +165,6 @@
 		"uniques": ["Free [Archer] appears","[2] free [Worker] units appear","Free [Settler] appears"],
 		"requiredTech": "Agriculture"
 	}
-	}
 		{
 		"name": "Outpost Subway",
 		"replaces": "Museum",
