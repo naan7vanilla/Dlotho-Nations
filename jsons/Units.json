@@ -201,13 +201,12 @@
 		"uniqueTo": "Hupsu",
 		"replaces": "Catapult",
 		"strength": 1,
-		"rangedStrength": 11,
-		"range": 5,
-		"cost": 200,
-		"movement": 5,
-		"requiredTech": "Gunpowder",
-		"promotions": ["March","Charge","Medic","Sentry"],
-		"uniques": ["No movement cost to pillage","Can move after attacking","Ignores terrain cost"],
+		"rangedStrength": 34,
+		"range": 2,
+		"cost": 100,
+		"movement": 0,
+		"requiredTech": "Mathematics",
+		"promotions": ["Logistics","Indirect Fire"],
 		"attackSound": "phasers"
 	}
 ]
