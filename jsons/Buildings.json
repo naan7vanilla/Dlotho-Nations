@@ -17,7 +17,7 @@
 		"replaces": "Aqueduct",
 		"uniqueTo": "Aliens",
 		"cost": 80,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 200,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
@@ -27,7 +27,7 @@
 		"replaces": "Windmill",
 		"uniqueTo": "Penasulia",
 		"cost": 250,
-		"hurryCostModifier": 1000,
+		"hurryCostModifier": 200,
 		"production": 4,
 		"maintenance": 2,
 		"requiredTech": "Economics"
@@ -36,7 +36,7 @@
 		"name": "Modular Market",
 		"uniqueTo": "Boreaul",
 		"cost": 60,
-		"hurryCostModifier": 300,
+		"hurryCostModifier": 200,
 		"happiness": -2,
 		"food": 4,
 		"gold": 4,
@@ -48,7 +48,7 @@
 		"replaces": "Monument",
 		"uniqueTo": "Sophia",
 		"cost": 40,
-		"hurryCostModifier": 280,
+		"hurryCostModifier": 200,
 		"science": 1,
 		"culture": 1,
 		"happiness": -2,
@@ -61,7 +61,7 @@
 		"replaces": "Library",
 		"uniqueTo": "Bodom",
 		"cost": 75,
-		"hurryCostModifier": 280,
+		"hurryCostModifier": 200,
 		"science": 1,
 		"culture": 1,
 		"happiness": 2,
@@ -74,7 +74,7 @@
 		"replaces": "Hospital",
 		"uniqueTo": "Bodom",
 		"cost": 360,
-		"hurryCostModifier": 1050,
+		"hurryCostModifier": 200,
 		"food": 10,
 		"happiness": 1,
 		"maintenance": 1,
@@ -85,7 +85,7 @@
 		"replaces": "Colosseum",
 		"uniqueTo": "Bodom",
 		"cost": 75,
-		"hurryCostModifier": 400,
+		"hurryCostModifier": 200,
 		"happiness": 1,
 		"maintenance": 0,
 		"requiredTech": "Construction"
@@ -95,7 +95,7 @@
 		"replaces": "Walls",
 		"uniqueTo": "Bodom",
 		"cost": 75,
-		"hurryCostModifier": 400,
+		"hurryCostModifier": 200,
 		"culture": 2,
 		"maintenance": 0,
 		"requiredTech": "Masonry"
@@ -105,7 +105,7 @@
 		"replaces": "Theatre",
 		"uniqueTo": "Bodom",
 		"cost": 75,
-		"hurryCostModifier": 400,
+		"hurryCostModifier": 200,
 		"culture": 1,
 		"happiness": 2,
 		"maintenance": 1,
@@ -116,7 +116,7 @@
 		"replaces": "Garden",
 		"uniqueTo": "Bodom",
 		"cost": 120,
-		"hurryCostModifier": 580,
+		"hurryCostModifier": 200,
 		"maintenance": 1,
 		"uniques": ["Free [Great Artist] appears"],
 		"requiredTech": "Theology"
@@ -126,7 +126,7 @@
 		"replaces": "Public School",
 		"uniqueTo": "Bodom",
 		"cost": 300,
-		"hurryCostModifier": 920,
+		"hurryCostModifier": 200,
 		"science": 4,
 		"culture": 2,
 		"happiness": 1,
@@ -139,7 +139,7 @@
 		"replaces": "University",
 		"uniqueTo": "Weyda",
 		"cost": 160,
-		"hurryCostModifier": 660,
+		"hurryCostModifier": 200,
 		"maintenance": 2,
 		"uniques": ["Free [Great General] appears"],
 		"requiredTech": "Education"
@@ -149,7 +149,7 @@
 		"replaces": "Medical Lab",
 		"uniqueTo": "Inhelatis",
 		"cost": 500,
-		"hurryCostModifier": 1350,
+		"hurryCostModifier": 200,
 		"maintenance": 3,
 		"uniques": ["Free [Great Scientist] appears","[6] free [Atomic Bomb] units appear"],
 		"requiredTech": "Pharmaceuticals"
@@ -159,10 +159,24 @@
 		"replaces": "Monument",
 		"uniqueTo": "Celap",
 		"cost": 40,
-		"hurryCostModifier": 280,
+		"hurryCostModifier": 200,
 		"production": 2,
 		"maintenance": 2,
 		"uniques": ["Free [Archer] appears","[2] free [Worker] units appear","Free [Settler] appears"],
 		"requiredTech": "Agriculture"
+	}
+	}
+		{
+		"name": "Outpost Subway",
+		"replaces": "Museum",
+		"uniqueTo": "Hupsu",
+		"cost": 200,
+		"hurryCostModifier": 200,
+		"production": 2,
+		"food": 2,
+		"gold": 2,
+		"maintenance": 0,
+		"uniques": ["[3] Free [Settler] units appears"],
+		"requiredTech": "Railroads"
 	}
 ]
