@@ -195,4 +195,19 @@
 		"uniques": ["No movement cost to pillage","Can move after attacking","Ignores terrain cost"],
 		"attackSound": "phasers"
 	}
+	{
+		"name": "Thunder Garrison",
+		"unitType": "Siege",
+		"uniqueTo": "Hupsu",
+		"replaces": "Catapult",
+		"strength": 1,
+		"rangedStrength": 11,
+		"range": 5,
+		"cost": 200,
+		"movement": 5,
+		"requiredTech": "Gunpowder",
+		"promotions": ["March","Charge","Medic","Sentry"],
+		"uniques": ["No movement cost to pillage","Can move after attacking","Ignores terrain cost"],
+		"attackSound": "phasers"
+	}
 ]
