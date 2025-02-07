@@ -162,7 +162,7 @@
 		"hurryCostModifier": 200,
 		"production": 2,
 		"maintenance": 2,
-		"uniques": ["Free [Archer] appears","[2] free [Worker] units appear","Free [Settler] appears"],
+		"uniques": ["Free [Archer] appears","Free [Worker] appears","Free [Settler] appears"],
 		"requiredTech": "Agriculture"
 	}
 		{
@@ -175,7 +175,7 @@
 		"food": 2,
 		"gold": 2,
 		"maintenance": 0,
-		"uniques": ["[3] Free [Settler] units appears"],
+		"uniques": ["[3] Free [Settler] units appear"],
 		"requiredTech": "Railroads"
 	}
 ]
