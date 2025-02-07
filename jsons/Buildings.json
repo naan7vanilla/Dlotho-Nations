@@ -117,6 +117,8 @@
 		"uniqueTo": "Bodom",
 		"cost": 120,
 		"hurryCostModifier": 200,
+		"happiness": 1,
+		"food": 1,
 		"maintenance": 1,
 		"uniques": ["Free [Great Artist] appears"],
 		"requiredTech": "Theology"
