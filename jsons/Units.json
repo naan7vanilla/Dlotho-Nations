@@ -108,7 +108,7 @@
 		"uniqueTo": "Bodom",
 		"replaces": "Warrior",
 		"movement": 1,
-		"strength": 14,
+		"strength": 12,
 		"cost": 25,
 		"requiredTech": "Agriculture",
 		"promotions": ["Cover I"],
