@@ -95,7 +95,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [71, 40, 144],
-		"uniques": ["[+2 Food] from every specialist [in all cities]","[+1 Gold] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","Starts with [Freedom] adopted","Starts with [Commerce] adopted","Starts with [Patronage] adopted","Starts with [Refrigeration]","[-60]% Production when constructing [Military] units [in all cities]","[-60]% maintenance cost for buildings [in all cities]","[+20]% growth [in all cities]", "[+1 Gold, +2 Production] per [3] population [in all cities]","[+1 Gold, +2 Food] [in all cities]","Militaristic City-States grant units [5] times as fast when you are at war with a common nation", "Gifts of Gold to City-States generate [+50]% more Influence","Units in cities cost no Maintenance","Enables [Melee Water] units to enter ocean tiles","Starts with [Sailing]","[Gold] cost of purchasing [Melee] units [-50]%","[-50]% Food consumption by specialists [in all cities]"],
+		"uniques": ["[+2 Food] from every specialist [in all cities]","[+1 Gold] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","Starts with [Freedom] adopted","Starts with [Commerce] adopted","Starts with [Patronage] adopted","Starts with [Refrigeration]","[-60]% Production when constructing [Military] units [in all cities]","[-60]% maintenance cost for buildings [in all cities]","[+20]% growth [in all cities]", "[+1 Gold, +2 Production] per [3] population [in all cities]","[+1 Gold, +2 Food] [in all cities]","Militaristic City-States grant units [5] times as fast when you are at war with a common nation", "Gifts of Gold to City-States generate [+50]% more Influence","Units in cities cost no Maintenance","Enables [Melee Water] units to enter ocean tiles","Starts with [Sailing]","[Gold] cost of purchasing [Melee] units [-50]%","[-50]% Food consumption by specialists [in all cities]","[+28 Gold, +5 Science, +2 Food] [in all cities]"],
 		"cities": ["Boreaulpuris"]
 	}
 	{
@@ -103,7 +103,7 @@
 		"leaderName": "chairman of Scdtia",
 		"adjective": ["Scdtia"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
 		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
@@ -301,7 +301,7 @@
 		"leaderName": "emperor of Celap",
 		"adjective": ["Celap"],
 		"startBias": ["Plain"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
 		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
