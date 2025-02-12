@@ -4,7 +4,7 @@
 		"leaderName": "duchess of Penasulia",
 		"adjective": ["Penanu"],
 		"startBias": ["Lakes"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
 		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
@@ -37,7 +37,7 @@
 		"leaderName": "visionary of Bodom",
 		"adjective": ["Penanu"],
 		"startBias": ["Lakes"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
 		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
