@@ -163,6 +163,7 @@
 		"cost": 40,
 		"hurryCostModifier": 200,
 		"production": 2,
+		"happiness": 1,
 		"maintenance": 2,
 		"uniques": ["Free [Archer] appears","Free [Worker] appears","Free [Settler] appears"],
 		"requiredTech": "Agriculture"
