@@ -326,7 +326,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [71, 40, 144],
-		"uniques": ["May not annex cities","May buy items in puppet cities","Starts with [Liberty] adopted","[-1 Happiness] per [3] population [in all cities]","[+2 Happiness, -6 Culture, -6 Science] [in all cities]","Units in cities cost no Maintenance","[+2 Gold, +2 Production, +10 Culture, +10 Science, +1 Happiness] from each Trade Route","[-75]% maintenance on road & railroads","Improves movement speed on roads","Quantity of strategic resources produced by the empire +[+100]%","Starts with [The Wheel]"],
+		"uniques": ["May not annex cities","May buy items in puppet cities","Starts with [Liberty] adopted","[-1 Happiness] per [3] population [in all cities]","[+2 Happiness, -8 Culture, -8 Science] [in all cities]","Units in cities cost no Maintenance","[+2 Gold, +2 Production, +12 Culture, +12 Science, +1 Happiness] from each Trade Route","[-75]% maintenance on road & railroads","Improves movement speed on roads","Quantity of strategic resources produced by the empire +[+100]%","Starts with [The Wheel]"],
 		"cities": ["City"]
 	}
 	{
