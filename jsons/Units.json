@@ -121,7 +121,7 @@
 		"uniqueTo": "Bodom",
 		"replaces": "Pikeman",
 		"movement": 1,
-		"strength": 24,
+		"strength": 18,
 		"cost": 90,
 		"requiredTech": "Agriculture",
 		"promotions": ["Cover I","Cover II","Medic","Medic II","Formation I","Formation II","Ambush I","Ambush II"],
