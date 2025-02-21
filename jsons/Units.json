@@ -17,11 +17,11 @@
 		"unitType": "Melee Water",
 		"uniqueTo": "Scdtia",
 		"replaces": "Trireme",
-		"strength": 30,
+		"strength": 15,
 		"movement": 4,
 		"cost": 40,
 		"requiredTech": "Horseback Riding",
-		"promotions": ["Boarding Party I","Supply"],
+		"promotions": ["Boarding Party I","Boarding Party II","Boarding Party III","Supply"],
 		"uniques": ["Invisible to non-adjacent units","Unit will heal every turn, even if it performs an action","Can move after attacking","Unable to capture cities","Withdraws before melee combat","[3] Sight","[2] additional attacks per turn"]
 		"attackSound": "phasers"
 	}
