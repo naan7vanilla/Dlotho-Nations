@@ -107,37 +107,13 @@
 		"attackSound": "phasers"
 	}
 	{
-		"name": "Reclaim Horde",
-		"unitType": "Sword",
-		"uniqueTo": "Thiae",
-		"replaces": "Warrior",
-		"movement": 3,
-		"strength": 8,
-		"cost": 4,
-		"requiredTech": "Agriculture",
-		"promotions": ["Blitz"],
-		"attackSound": "phasers"
-	}
-	{
-		"name": "Death Merged",
-		"unitType": "Armored",
-		"uniqueTo": "Thiae",
-		"replaces": "Swordsman",
-		"movement": 1,
-		"strength": 75,
-		"cost": 425,
-		"requiredTech": "Iron Working",
-		"requiredResource": "Iron",
-		"attackSound": "phasers"
-	}
-	{
 		"name": "Antifa Horde",
 		"unitType": "Sword",
 		"uniqueTo": "Bodom",
 		"replaces": "Warrior",
 		"movement": 1,
 		"strength": 9,
-		"cost": 25,
+		"cost": 20,
 		"requiredTech": "Agriculture",
 		"promotions": ["Cover I"],
 		"uniques": ["Unable to capture cities"],
