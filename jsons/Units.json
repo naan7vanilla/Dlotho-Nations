@@ -79,6 +79,34 @@
 		"attackSound": "phasers"
 	}
 	{
+		"name": "Line Galleass",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Boreaul",
+		"replaces": "Frigate",
+		"movement": 3,
+		"strength": 16,
+		"rangedStrength": 17,
+		"range": 2,
+		"cost": 100,
+		"requiredTech": "Navigation",
+		"promotions": ["Sentry","Supply"],
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Sailing Battleship",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Ginasulia",
+		"replaces": "Frigate",
+		"movement": 1,
+		"strength": 25,
+		"rangedStrength": 55,
+		"range": 3,
+		"cost": 750,
+		"requiredTech": "Navigation",
+		"promotions": ["Sentry","Supply"],
+		"attackSound": "phasers"
+	}
+	{
 		"name": "Reclaim Horde",
 		"unitType": "Sword",
 		"uniqueTo": "Thiae",
@@ -187,8 +215,8 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Celap",
 		"replaces": "Cavalry",
-		"strength": 30,
-		"cost": 200,
+		"strength": 24,
+		"cost": 150,
 		"movement": 5,
 		"requiredTech": "Gunpowder",
 		"promotions": ["March","Charge","Medic","Sentry"],
