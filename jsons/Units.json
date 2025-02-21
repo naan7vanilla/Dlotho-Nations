@@ -121,7 +121,7 @@
 		"uniqueTo": "Bodom",
 		"replaces": "Pikeman",
 		"movement": 1,
-		"strength": 18,
+		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Agriculture",
 		"promotions": ["Cover I","Cover II","Medic","Medic II","Formation I","Formation II","Ambush I","Ambush II"],
@@ -156,7 +156,7 @@
 	{
 		"name": "Lyre Bowman",
 		"unitType": "Archery",
-		"uniqueTo": "Weyda",
+		"uniqueTo": "Scdtia",
 		"replaces": "Composite Bowman",
 		"movement": 3,
 		"strength": 7,
