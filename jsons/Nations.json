@@ -198,39 +198,6 @@
 		"cities": ["Shipwreck","Campus","Library"]
 	}
 	{
-		"name": "Thiae",
-		"leaderName": "Who Are The Death",
-		"adjective": ["who"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Domination",
-		
-		"startIntroPart1": "Breath",
-		"startIntroPart2": "Who are we? We dont remember, everything we know is wrath. Reclaim our honor!",
-		
-		"declaringWar": "Return our honor!",
-		"attacked": "So you have choosen death!",
-		"defeated": "We were just misunderstood and stuck in forever wrath, we will rise again from the ashes, you owe us your head!",
-		"introduction": "The First Generation of Old World hyper power has been risen from the ashes, prepare to dead!",
-		
-		"neutralHello": "Breath.",
-		"neutralLetsHearIt": ["Breath."],
-		"neutralNo": ["Haha... head shake."],
-		"neutralYes": ["You chose wisely."],
-
-		"hateHello": "Breath",
-		"hateLetsHearIt": ["Breath."],
-		"hateNo": ["Staring."],
-		"hateYes": ["You decided wisely, kids."],
-		
-		"afterPeace": "We will return.",
-		"tradeRequest": "At least we dont want your blood this time.",
-
-		"outerColor": [39, 44, 143],
-		"innerColor": [37, 76, 1134],
-		"uniques": ["Cannot build [Settler] units","Starts with [Honor] adopted","[36] units cost no maintenance","Cannot build [Ranged] units","[2] Unit Supply per [1] population [in all cities]","Quantity of strategic resources produced by the empire +[+100]%","Cities are razed [20] times as fast","No movement cost to pillage","Can only heal by pillaging"],
-		"cities": ["South Pole"]
-	}
-{
 		"name": "Weyda",
 		"leaderName": "emperor of Weyda",
 		"adjective": ["Weydian"],
