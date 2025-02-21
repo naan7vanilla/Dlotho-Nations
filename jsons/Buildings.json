@@ -23,13 +23,15 @@
 		"requiredTech": "Engineering"
 	}
 	{
-		"name": "Windmill Powerplant",
+		"name": "Denshomill Powerplant",
 		"replaces": "Windmill",
 		"uniqueTo": "Penasulia",
 		"cost": 250,
 		"hurryCostModifier": 200,
 		"production": 4,
+		"food": 2,
 		"maintenance": 2,
+		"uniques": ["Free [Great Engineer] appears"],
 		"requiredTech": "Economics"
 	}
 	{
