@@ -128,7 +128,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [25, 153, 182],
-		"uniques": ["Cannot build [Siege] units","[-15]% Production when constructing [Military] units [in all cities]","[+2 Happiness] [in all cities]","Enables [Settler] units to enter ocean tiles","Starts with [Sailing]"],
+		"uniques": ["Cannot build [Siege] units","[-5]% Production when constructing [Military] units [in all cities]","[+2 Happiness] [in all cities]","Enables [Settler] units to enter ocean tiles","Starts with [Sailing]"],
 		"cities": ["Crimau","Cavok","Butsac","Quichi","Losalas","Hach","Teppak"]
 	}
 	{
