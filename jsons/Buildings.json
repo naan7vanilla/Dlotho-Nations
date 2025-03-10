@@ -26,7 +26,7 @@
 		"name": "Denshomill Powerplant",
 		"replaces": "Windmill",
 		"uniqueTo": "Penasulia",
-		"cost": 250,
+		"cost": 120,
 		"hurryCostModifier": 200,
 		"production": 4,
 		"food": 2,
