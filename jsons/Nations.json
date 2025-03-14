@@ -29,7 +29,7 @@
 
 		"outerColor": [7, 163, 156],
 		"innerColor": [198, 10, 116],
-		"uniques": ["[+2 Culture] from every specialist [in all cities]","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities","Starts with [Honor] adopted"],
+		"uniques": ["[+2 Culture] from every specialist [in all cities]","Starts with [Tradition] adopted","May not annex cities","May buy items in puppet cities"],
 		"cities": ["Polchtidayum","Caminato","Chauto","Adonicopolis","Cenai","Nilai","Sato"]
 	}
 	{
@@ -62,7 +62,7 @@
 
 		"outerColor": [7, 163, 156],
 		"innerColor": [198, 10, 116],
-		"uniques": ["[+1 Happiness] from every specialist [in all cities]","[+1 Culture] from every specialist [in all cities]","Cannot build [Worker] units","[+1 Culture] per [3] population [in all cities]"],
+		"uniques": ["[+1 Happiness] from every specialist [in all cities]","[+1 Culture] from every specialist [in all cities]","Cannot build [Worker] units","[+1 Culture] per [2] population [in all cities]"],
 		"cities": ["Sapphoro","Saliropuris","Achilena","Molasi"]
 	}
 	{
