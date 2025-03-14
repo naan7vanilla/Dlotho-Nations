@@ -26,20 +26,6 @@
 		"attackSound": "phasers"
 	}
 	{
-		"name": "Heavy Crossbowman",
-		"unitType": "Archery",
-		"uniqueTo": "Penasulia",
-		"replaces": "Crossbowman",
-		"movement": 2,
-		"strength": 30,
-		"rangedStrength": 11,
-		"range": 2,
-		"cost": 120,
-		"requiredTech": "Machinery",
-		"promotions": ["Cover I","March","Barrage I"],
-		"attackSound": "phasers"
-	}
-	{
 		"name": "Mantis Guardian",
 		"unitType": "Archery",
 		"uniqueTo": "Ginasulia",
