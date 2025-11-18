@@ -55,7 +55,7 @@
 		"culture": 1,
 		"happiness": -2,
 		"maintenance": 1,
-		"uniques": ["Free [Great Scientist] appears","Free [Musketman] appears","Free [Atomic Bomb] appears","[5] free [Guided Missile] units appear",],
+		"uniques": ["Free [Great Scientist] appears","Free [Musketman] appears","Free [Atomic Bomb] appears","[5] free [Guided Missile] units appear"],
 		"requiredTech": "Agriculture"
 	}
 		{
